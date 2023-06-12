@@ -1,0 +1,43 @@
+/* navbar */
+
+.navbar-custom{
+    padding: 1rem;
+    background-color: #BDCDD6;
+    border-radius:20px ;
+    margin: 2rem;
+    color: aliceblue;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+/* carousel */
+.carousel-custom{
+    width: 70%;
+    margin: auto;
+}
+
+.carousel-item{
+    height: 20rem;
+}
+
+
+/* table */
+.table-custom{
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 2rem;
+    background-color: #ECF8F9;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: 0;
+}
+
+/* card */
+
+.card-custom{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);  
+}
+
+
+
+
+
